@@ -1,0 +1,58 @@
+{
+    "questions": {
+        "grasse": [
+            {
+                "question": "Quelle est votre routine matin ?",
+                "reponse": "1. Nettoyant gel\n2. Tonique\n3. Sérum niacinamide\n4. Crème légère"
+            },
+            {
+                "question": "Quels sous-produits recommandez-vous ?",
+                "reponse": "Pour peau grasse, il est préférable d'utiliser un sérum léger et une crème matifiante."
+            },
+            {
+                "question": "Quel masque est adapté pour une peau grasse ?",
+                "reponse": "Un masque à l'argile verte peut être bénéfique pour purifier la peau grasse."
+            },
+            {
+                "question": "Puis-je utiliser des huiles pour peau grasse ?",
+                "reponse": "Évitez les huiles épaisses. Optez pour des huiles légères et non comédogènes."
+            }
+        ],
+        "sèche": [
+            {
+                "question": "Quelle est votre routine matin ?",
+                "reponse": "1. Nettoyant crème\n2. Sérum hydratant\n3. Crème riche\n4. Huile visage"
+            },
+            {
+                "question": "Quels sous-produits recommandez-vous ?",
+                "reponse": "Optez pour des sérums hydratants et des crèmes riches en céramides pour la peau sèche."
+            },
+            {
+                "question": "Quel masque est adapté pour une peau sèche ?",
+                "reponse": "Un masque hydratant à base de miel et d'aloe vera aidera à nourrir la peau sèche."
+            },
+            {
+                "question": "Puis-je utiliser des huiles pour peau sèche ?",
+                "reponse": "Les huiles riches, comme l'huile d'argan, sont idéales pour nourrir la peau sèche."
+            }
+        ],
+        "mixte": [
+            {
+                "question": "Quelle est votre routine matin ?",
+                "reponse": "1. Nettoyant doux\n2. Sérum adapté\n3. Crème équilibrante"
+            },
+            {
+                "question": "Quels sous-produits recommandez-vous ?",
+                "reponse": "Pour peau mixte, optez pour des sérums légers et des crèmes équilibrantes."
+            },
+            {
+                "question": "Quel masque est adapté pour une peau mixte ?",
+                "reponse": "Un masque à l'argile rose ou au charbon est parfait pour une peau mixte."
+            },
+            {
+                "question": "Puis-je utiliser des huiles pour peau mixte ?",
+                "reponse": "Utilisez une huile légère sur les zones sèches et un soin matifiant sur les zones grasses."
+            }
+        ]
+    }
+}

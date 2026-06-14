@@ -1,0 +1,16 @@
+[
+    ["Bonjour", "Bonjour ! Comment puis-je vous aider avec votre routine skincare ?"],
+    ["routine", "Quelle routine vous intéresse ? Dites 'routine soir' ou 'routine matin'"],
+    ["matin", "Pour une routine du matin, quel est votre type de peau ? (grasse, sèche, mixte)"],
+    ["sérum" , "Quel est votre type de peau ? Je vous conseillerai le meilleur sérum"],
+    ["soir", "Pour une routine du soir, quel est votre type de peau ? (grasse, sèche, mixte)"],
+    ["j’ai des acnés", "Le traitement d'acnés diffère selon votre type de peau. Quel est votre type de peau ?"],
+    ["nettoyant", "Quel est votre type de peau ? Je vous conseillerai le meilleur nettoyant"],
+    ["conseil", "Dites-moi votre type de peau pour un conseil personnalisé"],
+    ["j’ai des taches brunes", "Les taches brunes peuvent être atténuées avec des sérums à base de vitamine C ou de niacinamide. Quel est votre type de peau ?"],
+    ["ordre des produits","ordre classique : Nettoyant > Tonique > Sérum > Crème > Protection solaire (matin)."],
+    ["merci", "Avec plaisir ! Dites-moi si vous avez d'autres questions"],
+    ["au revoir", "À bientôt ! Prenez soin de votre peau !"]
+]
+
+
